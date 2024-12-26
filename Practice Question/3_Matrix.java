@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Matrix {
+class Matrix {
     public static void main(String[] args) {
         int[][] arr = { { 0, 5, 9 }, { 4, 3, 8 }, { 3, 4, 2 } };
         
